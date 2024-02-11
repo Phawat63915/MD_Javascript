@@ -9,3 +9,4 @@
 
 # promise all (Note)
 - https://www.geeksforgeeks.org/explain-promise-all-with-async-await-in-javascript/
+- https://stackoverflow.com/questions/54896470/how-to-return-the-promise-all-fetch-api-json-data
