@@ -6,3 +6,6 @@
 
 # Other but idle
 [Detect device, browser and version using javascript](https://medium.com/creative-technology-concepts-code/detect-device-browser-and-version-using-javascript-8b511906745)
+
+# promise all (Note)
+- https://www.geeksforgeeks.org/explain-promise-all-with-async-await-in-javascript/
